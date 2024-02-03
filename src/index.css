@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     
+}
+
+body{
+     overflow-x: hidden;
+      background: linear-gradient(to left, #2D9596, #265073 );
+     
+            
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
